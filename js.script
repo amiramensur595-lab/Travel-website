@@ -1,0 +1,6 @@
+function welcomeMessage() {
+    alert("Welcome to the beautiful city of Mekelle! We are happy to have you.");
+}
+
+// Console lay melekite yasqemital
+console.log("Mekelle City Website Loaded Successfully!");
